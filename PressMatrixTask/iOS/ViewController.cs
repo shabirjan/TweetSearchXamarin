@@ -39,8 +39,13 @@ namespace PressMatrixTask.iOS
 
 			searchManager = new SearchManager(appDlg.conn);
 
-
-
+			hud = new MTMBProgressHUD(View)
+			{
+				LabelText = "Searching Twitter...",
+				RemoveFromSuperViewOnHide = true
+			};
+			View.AddSubview(hud);
+			hud.Show(animated: true);
 			loadTweets();
 
 		}
@@ -48,12 +53,7 @@ namespace PressMatrixTask.iOS
 
 		public async void loadTweets()
 		{
-			hud = new MTMBProgressHUD(View)
-			{
-				LabelText = "Searching Twitter...",
-				RemoveFromSuperViewOnHide = true
-			};
-			View.AddSubview(hud);
+
 
 			var tweets = new List<Status>();
 			if (Reachability.IsHostReachable("http://google.com"))
