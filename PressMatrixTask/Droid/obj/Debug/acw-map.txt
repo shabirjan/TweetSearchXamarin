@@ -1,0 +1,4 @@
+PressMatrixTask.Droid.MainActivity, PressMatrixTask.Droid;md5d130d5be6183828ed4014b6d5ca3c685.MainActivity
+PressMatrixTask.Droid.MainActivity, PressMatrixTask.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d130d5be6183828ed4014b6d5ca3c685.MainActivity
+PressMatrixTask.Droid.MainActivity;md5d130d5be6183828ed4014b6d5ca3c685.MainActivity
+pressmatrixtask.droid.MainActivity;md5d130d5be6183828ed4014b6d5ca3c685.MainActivity

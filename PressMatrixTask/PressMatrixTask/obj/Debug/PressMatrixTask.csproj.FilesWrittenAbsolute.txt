@@ -1,0 +1,13 @@
+/Users/shabir/Desktop/PressMatrixTask/PressMatrixTask/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/shabir/Desktop/PressMatrixTask/PressMatrixTask/bin/Debug/SQLitePCLRaw.core.dll
+/Users/shabir/Desktop/PressMatrixTask/PressMatrixTask/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/shabir/Desktop/PressMatrixTask/PressMatrixTask/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/shabir/Desktop/PressMatrixTask/PressMatrixTask/bin/Debug/SQLite-net.dll
+/Users/shabir/Desktop/PressMatrixTask/PressMatrixTask/bin/Debug/Newtonsoft.Json.dll
+/Users/shabir/Desktop/PressMatrixTask/PressMatrixTask/bin/Debug/System.Net.Http.dll
+/Users/shabir/Desktop/PressMatrixTask/PressMatrixTask/bin/Debug/System.Net.Http.Extensions.dll
+/Users/shabir/Desktop/PressMatrixTask/PressMatrixTask/bin/Debug/System.Net.Http.Primitives.dll
+/Users/shabir/Desktop/PressMatrixTask/PressMatrixTask/bin/Debug/PressMatrixTask.dll.mdb
+/Users/shabir/Desktop/PressMatrixTask/PressMatrixTask/bin/Debug/PressMatrixTask.dll
+/Users/shabir/Desktop/PressMatrixTask/PressMatrixTask/obj/Debug/PressMatrixTask.dll
+/Users/shabir/Desktop/PressMatrixTask/PressMatrixTask/obj/Debug/PressMatrixTask.dll.mdb
